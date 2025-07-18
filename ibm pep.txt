@@ -1,0 +1,360 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<CoDSystemPool xmlns="http://www.ibm.com/xmlns/hsc/jaxb/cod/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="/opt/hsc/data/CoDSystemPool.xsd">
+<!--  2021-06-27-09.04.23.385000  -->
+<PoolID>1095</PoolID>
+<SequenceNumber>0003</SequenceNumber>
+<!--  Total memory for the pool: 2400 GB  -->
+
+<!--  CoD code targeted to server: 9080-M9S*782FED8  -->
+<MemoryResourceEntitlement>
+<ActivationCode>4C34D46214425A0EGMEM10950024005785</ActivationCode>
+<MTMS>9080-M9S*782FED8</MTMS>
+</MemoryResourceEntitlement>
+<!--  Total processors for the pool: 00093  -->
+
+
+<!--  CoD code targeted to server: 9080-MHE*6801EA8  -->
+<ProcessorResourceEntitlement>
+<ActivationCode>CDE08134888F7458GPRC1095009300562C</ActivationCode>
+<MTMS>9080-MHE*6801EA8</MTMS>
+</ProcessorResourceEntitlement>
+<!--  Add server to pool: 9080-MHE*6801EA8  -->
+<PoolMember>
+<ActivationCode>635B9014585D2444GMBR10950002004118</ActivationCode>
+<MTMS>9080-MHE*6801EA8</MTMS>
+<ActivationType>Add</ActivationType>
+</PoolMember>
+<!--  Add server to pool: 9080-M9S*782FEC8  -->
+<PoolMember>
+<ActivationCode>255AACA2DF413A53GMBR109500020041E9</ActivationCode>
+<MTMS>9080-M9S*782FEC8</MTMS>
+<ActivationType>Add</ActivationType>
+</PoolMember>
+<!--  Add server to pool: 9080-M9S*782FED8  -->
+<PoolMember>
+<ActivationCode>C185E0397CF47A28GMBR109500020041FA</ActivationCode>
+<MTMS>9080-M9S*782FED8</MTMS>
+<ActivationType>Add</ActivationType>
+</PoolMember>
+<!--  Add server to pool: 9080-M9S*782FEE8  -->
+<PoolMember>
+<ActivationCode>393D3D28E8AF6529GMBR1095000200417A</ActivationCode>
+<MTMS>9080-M9S*782FEE8</MTMS>
+<ActivationType>Add</ActivationType>
+</PoolMember>
+<!--  Add server to pool: 9080-M9S*782FEF8  -->
+<PoolMember>
+<ActivationCode>AA2615691373F800GMBR10950002004170</ActivationCode>
+<MTMS>9080-M9S*782FEF8</MTMS>
+<ActivationType>Add</ActivationType>
+</PoolMember>
+<!--  Add server to pool: 9080-M9S*782FF08  -->
+<PoolMember>
+<ActivationCode>0B9AA144554D7252GMBR10950002004182</ActivationCode>
+<MTMS>9080-M9S*782FF08</MTMS>
+<ActivationType>Add</ActivationType>
+</PoolMember>
+<!--  Add server to pool: 9080-M9S*782F8A8  -->
+<PoolMember>
+<ActivationCode>818A1A6C8E434F25GMBR10950002004166</ActivationCode>
+<MTMS>9080-M9S*782F8A8</MTMS>
+<ActivationType>Add</ActivationType>
+</PoolMember>
+<!--  Add server to pool: 9080-M9S*782F858  -->
+<PoolMember>
+<ActivationCode>B2F0E80C94E957FEGMBR109500020041F1</ActivationCode>
+<MTMS>9080-M9S*782F858</MTMS>
+<ActivationType>Add</ActivationType>
+</PoolMember>
+<!--  Add server to pool: 9080-M9S*782F868  -->
+<PoolMember>
+<ActivationCode>2D4BB98B1CF2DCC3GMBR1095000200416F</ActivationCode>
+<MTMS>9080-M9S*782F868</MTMS>
+<ActivationType>Add</ActivationType>
+</PoolMember>
+<!--  Add server to pool: 9080-M9S*782F878  -->
+<PoolMember>
+<ActivationCode>07CD5278DB98175EGMBR1095000200416A</ActivationCode>
+<MTMS>9080-M9S*782F878</MTMS>
+<ActivationType>Add</ActivationType>
+</PoolMember>
+<!--  Add server to pool: 9080-M9S*782F888  -->
+<PoolMember>
+<ActivationCode>1A3F2175CBF706DCGMBR109500020041E4</ActivationCode>
+<MTMS>9080-M9S*782F888</MTMS>
+<ActivationType>Add</ActivationType>
+</PoolMember>
+<!--  Add server to pool: 9080-M9S*782F898  -->
+<PoolMember>
+<ActivationCode>74AD890BE8870F11GMBR1095000200417C</ActivationCode>
+<MTMS>9080-M9S*782F898</MTMS>
+<ActivationType>Add</ActivationType>
+</PoolMember>
+<!--  Add server to pool: 9080-M9S*78317C8  -->
+<PoolMember>
+<ActivationCode>8A3B9F5BEC80458BGMBR109500020041E4</ActivationCode>
+<MTMS>9080-M9S*78317C8</MTMS>
+<ActivationType>Add</ActivationType>
+</PoolMember>
+<!--  Add server to pool: 9080-M9S*78317D8  -->
+<PoolMember>
+<ActivationCode>E849B6317C1B978FGMBR10950002004173</ActivationCode>
+<MTMS>9080-M9S*78317D8</MTMS>
+<ActivationType>Add</ActivationType>
+</PoolMember>
+<!--  Add server to pool: 9080-M9S*784D438  -->
+<PoolMember>
+<ActivationCode>70BAB6F26EA313D3GMBR109500020041EE</ActivationCode>
+<MTMS>9080-M9S*784D438</MTMS>
+<ActivationType>Add</ActivationType>
+</PoolMember>
+<!--  Add server to pool: 9080-M9S*784D448  -->
+<PoolMember>
+<ActivationCode>8126EB059C1FBD30GMBR10950002004106</ActivationCode>
+<MTMS>9080-M9S*784D448</MTMS>
+<ActivationType>Add</ActivationType>
+</PoolMember>
+<!--  Add server to pool: 9080-M9S*784D458  -->
+<PoolMember>
+<ActivationCode>EE3C1B94C3322F51GMBR1095000200411F</ActivationCode>
+<MTMS>9080-M9S*784D458</MTMS>
+<ActivationType>Add</ActivationType>
+</PoolMember>
+<!--  Add server to pool: 9080-M9S*784D468  -->
+<PoolMember>
+<ActivationCode>FEA54584EC5826AAGMBR10950002004166</ActivationCode>
+<MTMS>9080-M9S*784D468</MTMS>
+<ActivationType>Add</ActivationType>
+</PoolMember>
+
+
+
+
+<!--  Convert permanent memory to mobile on server: 9080-M9S*782FEC8  -->
+<!--  Total memory converted: 100 GB  -->
+<ConvertPermanentMemoryResourceEntitlement>
+<ActivationCode>3C05A71F6E120E69CMOD109500010046E3</ActivationCode>
+<MTMS>9080-M9S*782FEC8</MTMS>
+</ConvertPermanentMemoryResourceEntitlement>
+<!--  Convert permanent memory to mobile on server: 9080-M9S*782FED8  -->
+<!--  Total memory converted: 100 GB  -->
+<ConvertPermanentMemoryResourceEntitlement>
+<ActivationCode>C2126D495EA88C51CMOD1095000100466B</ActivationCode>
+<MTMS>9080-M9S*782FED8</MTMS>
+</ConvertPermanentMemoryResourceEntitlement>
+<!--  Convert permanent memory to mobile on server: 9080-M9S*782FEE8  -->
+<!--  Total memory converted: 200 GB  -->
+<ConvertPermanentMemoryResourceEntitlement>
+<ActivationCode>85CCA3C770270229CMOD1095000200468A</ActivationCode>
+<MTMS>9080-M9S*782FEE8</MTMS>
+</ConvertPermanentMemoryResourceEntitlement>
+<!--  Convert permanent memory to mobile on server: 9080-M9S*782FEF8  -->
+<!--  Total memory converted: 200 GB  -->
+<ConvertPermanentMemoryResourceEntitlement>
+<ActivationCode>E0053811AAFA052ACMOD10950002004694</ActivationCode>
+<MTMS>9080-M9S*782FEF8</MTMS>
+</ConvertPermanentMemoryResourceEntitlement>
+<!--  Convert permanent memory to mobile on server: 9080-M9S*782FF08  -->
+<!--  Total memory converted: 200 GB  -->
+<ConvertPermanentMemoryResourceEntitlement>
+<ActivationCode>00FA6B3390B9EF50CMOD10950002004687</ActivationCode>
+<MTMS>9080-M9S*782FF08</MTMS>
+</ConvertPermanentMemoryResourceEntitlement>
+<!--  Convert permanent memory to mobile on server: 9080-M9S*782F8A8  -->
+<!--  Total memory converted: 100 GB  -->
+<ConvertPermanentMemoryResourceEntitlement>
+<ActivationCode>D7076CB195F0AEAACMOD10950001004686</ActivationCode>
+<MTMS>9080-M9S*782F8A8</MTMS>
+</ConvertPermanentMemoryResourceEntitlement>
+<!--  Convert permanent memory to mobile on server: 9080-M9S*782F858  -->
+<!--  Total memory converted: 100 GB  -->
+<ConvertPermanentMemoryResourceEntitlement>
+<ActivationCode>36CFF7A6F68AE542CMOD109500010046FA</ActivationCode>
+<MTMS>9080-M9S*782F858</MTMS>
+</ConvertPermanentMemoryResourceEntitlement>
+<!--  Convert permanent memory to mobile on server: 9080-M9S*782F868  -->
+<!--  Total memory converted: 100 GB  -->
+<ConvertPermanentMemoryResourceEntitlement>
+<ActivationCode>2BB3E5E185A23195CMOD1095000100467B</ActivationCode>
+<MTMS>9080-M9S*782F868</MTMS>
+</ConvertPermanentMemoryResourceEntitlement>
+<!--  Convert permanent memory to mobile on server: 9080-M9S*782F878  -->
+<!--  Total memory converted: 100 GB  -->
+<ConvertPermanentMemoryResourceEntitlement>
+<ActivationCode>8B0B8EB5F70CC4B1CMOD10950001004600</ActivationCode>
+<MTMS>9080-M9S*782F878</MTMS>
+</ConvertPermanentMemoryResourceEntitlement>
+<!--  Convert permanent memory to mobile on server: 9080-M9S*782F888  -->
+<!--  Total memory converted: 100 GB  -->
+<ConvertPermanentMemoryResourceEntitlement>
+<ActivationCode>B03F56B8794F63F0CMOD109500010046E5</ActivationCode>
+<MTMS>9080-M9S*782F888</MTMS>
+</ConvertPermanentMemoryResourceEntitlement>
+<!--  Convert permanent memory to mobile on server: 9080-M9S*782F898  -->
+<!--  Total memory converted: 100 GB  -->
+<ConvertPermanentMemoryResourceEntitlement>
+<ActivationCode>DAEB8D7235A9222ACMOD109500010046F9</ActivationCode>
+<MTMS>9080-M9S*782F898</MTMS>
+</ConvertPermanentMemoryResourceEntitlement>
+<!--  Convert permanent memory to mobile on server: 9080-M9S*78317C8  -->
+<!--  Total memory converted: 100 GB  -->
+<ConvertPermanentMemoryResourceEntitlement>
+<ActivationCode>F93E35F94D1C7A7CCMOD10950001004674</ActivationCode>
+<MTMS>9080-M9S*78317C8</MTMS>
+</ConvertPermanentMemoryResourceEntitlement>
+<!--  Convert permanent memory to mobile on server: 9080-M9S*78317D8  -->
+<!--  Total memory converted: 100 GB  -->
+<ConvertPermanentMemoryResourceEntitlement>
+<ActivationCode>AA1948F3683289FCCMOD109500010046FA</ActivationCode>
+<MTMS>9080-M9S*78317D8</MTMS>
+</ConvertPermanentMemoryResourceEntitlement>
+<!--  Convert permanent memory to mobile on server: 9080-M9S*784D438  -->
+<!--  Total memory converted: 200 GB  -->
+<ConvertPermanentMemoryResourceEntitlement>
+<ActivationCode>C9C4940017763739CMOD10950002004610</ActivationCode>
+<MTMS>9080-M9S*784D438</MTMS>
+</ConvertPermanentMemoryResourceEntitlement>
+<!--  Convert permanent memory to mobile on server: 9080-M9S*784D448  -->
+<!--  Total memory converted: 200 GB  -->
+<ConvertPermanentMemoryResourceEntitlement>
+<ActivationCode>091BC898F4187DE2CMOD109500020046F5</ActivationCode>
+<MTMS>9080-M9S*784D448</MTMS>
+</ConvertPermanentMemoryResourceEntitlement>
+<!--  Convert permanent memory to mobile on server: 9080-M9S*784D458  -->
+<!--  Total memory converted: 200 GB  -->
+<ConvertPermanentMemoryResourceEntitlement>
+<ActivationCode>EDFE8D08FFFB7A79CMOD1095000200461F</ActivationCode>
+<MTMS>9080-M9S*784D458</MTMS>
+</ConvertPermanentMemoryResourceEntitlement>
+<!--  Convert permanent memory to mobile on server: 9080-M9S*784D468  -->
+<!--  Total memory converted: 200 GB  -->
+<ConvertPermanentMemoryResourceEntitlement>
+<ActivationCode>CEEBF81D465B7353CMOD109500020046E3</ActivationCode>
+<MTMS>9080-M9S*784D468</MTMS>
+</ConvertPermanentMemoryResourceEntitlement>
+
+
+
+<!--  Convert permanent processors to mobile on server: 9080-MHE*6801EA8  -->
+<!--  Total processors converted: 00006  -->
+<ConvertPermanentProcessorResourceEntitlement>
+<ActivationCode>84DE6116974511F0CPOD10950006004161</ActivationCode>
+<MTMS>9080-MHE*6801EA8</MTMS>
+</ConvertPermanentProcessorResourceEntitlement>
+<!--  Convert permanent processors to mobile on server: 9080-M9S*782FEC8  -->
+<!--  Total processors converted: 00004  -->
+<ConvertPermanentProcessorResourceEntitlement>
+<ActivationCode>7677DCDAAAFD6852CPOD10950004004110</ActivationCode>
+<MTMS>9080-M9S*782FEC8</MTMS>
+</ConvertPermanentProcessorResourceEntitlement>
+<!--  Convert permanent processors to mobile on server: 9080-M9S*782FEE8  -->
+<!--  Total processors converted: 00007  -->
+<ConvertPermanentProcessorResourceEntitlement>
+<ActivationCode>75414FFADFBA5847CPOD109500070041F0</ActivationCode>
+<MTMS>9080-M9S*782FEE8</MTMS>
+</ConvertPermanentProcessorResourceEntitlement>
+<!--  Convert permanent processors to mobile on server: 9080-M9S*782FEF8  -->
+<!--  Total processors converted: 00007  -->
+<ConvertPermanentProcessorResourceEntitlement>
+<ActivationCode>26F62770FF86C141CPOD10950007004190</ActivationCode>
+<MTMS>9080-M9S*782FEF8</MTMS>
+</ConvertPermanentProcessorResourceEntitlement>
+<!--  Convert permanent processors to mobile on server: 9080-M9S*782FF08  -->
+<!--  Total processors converted: 00007  -->
+<ConvertPermanentProcessorResourceEntitlement>
+<ActivationCode>2F5F6F6F41097DC6CPOD10950007004183</ActivationCode>
+<MTMS>9080-M9S*782FF08</MTMS>
+</ConvertPermanentProcessorResourceEntitlement>
+<!--  Convert permanent processors to mobile on server: 9080-M9S*782F8A8  -->
+<!--  Total processors converted: 00004  -->
+<ConvertPermanentProcessorResourceEntitlement>
+<ActivationCode>AA0764B45AB2947ECPOD10950004004198</ActivationCode>
+<MTMS>9080-M9S*782F8A8</MTMS>
+</ConvertPermanentProcessorResourceEntitlement>
+<!--  Convert permanent processors to mobile on server: 9080-M9S*782F858  -->
+<!--  Total processors converted: 00005  -->
+<ConvertPermanentProcessorResourceEntitlement>
+<ActivationCode>6C54A1475DC9864BCPOD10950005004175</ActivationCode>
+<MTMS>9080-M9S*782F858</MTMS>
+</ConvertPermanentProcessorResourceEntitlement>
+<!--  Convert permanent processors to mobile on server: 9080-M9S*782F868  -->
+<!--  Total processors converted: 00004  -->
+<ConvertPermanentProcessorResourceEntitlement>
+<ActivationCode>EA62C5887BC36A64CPOD10950004004196</ActivationCode>
+<MTMS>9080-M9S*782F868</MTMS>
+</ConvertPermanentProcessorResourceEntitlement>
+<!--  Convert permanent processors to mobile on server: 9080-M9S*782F878  -->
+<!--  Total processors converted: 00004  -->
+<ConvertPermanentProcessorResourceEntitlement>
+<ActivationCode>2EBACF1AC88FFF94CPOD10950004004117</ActivationCode>
+<MTMS>9080-M9S*782F878</MTMS>
+</ConvertPermanentProcessorResourceEntitlement>
+<!--  Convert permanent processors to mobile on server: 9080-M9S*782F888  -->
+<!--  Total processors converted: 00004  -->
+<ConvertPermanentProcessorResourceEntitlement>
+<ActivationCode>56E800B5767EAEBACPOD1095000400416A</ActivationCode>
+<MTMS>9080-M9S*782F888</MTMS>
+</ConvertPermanentProcessorResourceEntitlement>
+<!--  Convert permanent processors to mobile on server: 9080-M9S*782F898  -->
+<!--  Total processors converted: 00005  -->
+<ConvertPermanentProcessorResourceEntitlement>
+<ActivationCode>EA2BB9E06F4D4BE1CPOD10950005004168</ActivationCode>
+<MTMS>9080-M9S*782F898</MTMS>
+</ConvertPermanentProcessorResourceEntitlement>
+<!--  Convert permanent processors to mobile on server: 9080-M9S*78317C8  -->
+<!--  Total processors converted: 00004  -->
+<ConvertPermanentProcessorResourceEntitlement>
+<ActivationCode>19385B42C09C0E36CPOD10950004004191</ActivationCode>
+<MTMS>9080-M9S*78317C8</MTMS>
+</ConvertPermanentProcessorResourceEntitlement>
+<!--  Convert permanent processors to mobile on server: 9080-M9S*784D438  -->
+<!--  Total processors converted: 00008  -->
+<ConvertPermanentProcessorResourceEntitlement>
+<ActivationCode>A9C5E5E575E5D694CPOD1095000800410C</ActivationCode>
+<MTMS>9080-M9S*784D438</MTMS>
+</ConvertPermanentProcessorResourceEntitlement>
+<!--  Convert permanent processors to mobile on server: 9080-M9S*784D448  -->
+<!--  Total processors converted: 00008  -->
+<ConvertPermanentProcessorResourceEntitlement>
+<ActivationCode>178490241469F39DCPOD10950008004191</ActivationCode>
+<MTMS>9080-M9S*784D448</MTMS>
+</ConvertPermanentProcessorResourceEntitlement>
+<!--  Convert permanent processors to mobile on server: 9080-M9S*784D458  -->
+<!--  Total processors converted: 00008  -->
+<ConvertPermanentProcessorResourceEntitlement>
+<ActivationCode>98516853DC460CCDCPOD10950008004170</ActivationCode>
+<MTMS>9080-M9S*784D458</MTMS>
+</ConvertPermanentProcessorResourceEntitlement>
+<!--  Convert permanent processors to mobile on server: 9080-M9S*784D468  -->
+<!--  Total processors converted: 00008  -->
+<ConvertPermanentProcessorResourceEntitlement>
+<ActivationCode>94D14ACED4FB87C6CPOD10950008004188</ActivationCode>
+<MTMS>9080-M9S*784D468</MTMS>
+</ConvertPermanentProcessorResourceEntitlement>
+
+
+
+
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+<SignedInfo>
+<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315#WithComments"/>
+<SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"/>
+<Reference URI="">
+<Transforms>
+<Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</Transforms>
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/>
+<DigestValue>mEdCiiWt5YfCTeLAXojpoo/SBB9DJSE8/R+Te3D2yQ0=</DigestValue>
+</Reference>
+</SignedInfo>
+<SignatureValue>p9nLRkkfbqqyGHZOG9KGXZ4sXoyBozV2Ic64rwqDPeU5QlTo/mAMOzlg5gH+/QahUhfTpa2bdIFaoiQxxhS3Jh/dqil08a1dHOn3pTalpEJkBH4Aq2yxWO/6XU35ZPJw/dtC+6Kqz149Inch2XFHTrzSFMuy/qZ59nrmapkqwQfciX3H4ZMhTdGBg4hb4OyaP/i57R0BHBAY2ZnlhFvsQzEWG4hH3I3kaOW6DGsgrAEWYZ6JYbM+BM0jfNfvX1qEYC9D6Ea5YmCTXU/EZN+JtTlh2Co5AZTNdEzWhFxGtAz84VWFHW7TGJDQEuouuwXJNdp95Jsz7lg6AXMmI1QkCg==</SignatureValue>
+<KeyInfo>
+<KeyValue>
+<RSAKeyValue>
+<Modulus>s9qepKlq7SDkemwu6B38bxhDiLHKPDLPHP7cBfxC33MGHfrqF2RimXL8z0OBuO1Gu1hXmzTvoY4THc8FMPD8hj7R65euHTQLVwtuMPHTkaoHTwkTW/YcKw630iKylm3x7/9mPqh69nV/9PuaUffPx19YVhzu8MX/Wvfkz7fyRTCUl48Od0UsDEqkNNBtqwY0JeeAW1PzjafuIkhskIrgvCHz5+qqIb8UzTS0u3K0JlYxA61Nbc/rxbnsAY2bj+itOdQc9SclIuYXsNGydEGxhdjXwQFNURNvQmTDPaaczM8Y/SuBJobMpuTxSYYmqf+uuXfm22sSQSqIty1WVBmS2Q==</Modulus>
+<Exponent>AQAB</Exponent>
+</RSAKeyValue>
+</KeyValue>
+</KeyInfo>
+</Signature>
+</CoDSystemPool>
